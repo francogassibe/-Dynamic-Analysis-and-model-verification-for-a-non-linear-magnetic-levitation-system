@@ -11,4 +11,6 @@ We analysed the different responses to the diferent values for the physical para
 Please open the 'explanaition' pptx file to see the hole explanation and development of the entire project
 
 
+To better understand the system you can see a video of a dynamic response in the test.MP4 video
+
 the main project is in 'Proyecto_Vibratoria_Principal' in case you want to run it
